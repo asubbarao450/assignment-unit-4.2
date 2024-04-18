@@ -7,11 +7,13 @@ h2 {
     color: rgb(255, 223, 12);
 }
 
+//sets background color of header
 h3 {
     background-color: rgb(243, 33, 169);
     color: rgb(18, 29, 241);
 }
 
+//centers image
 .center {
     display: block;
     margin-left: auto;
